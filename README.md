@@ -70,7 +70,6 @@ Displays customer names, individual sales amounts, and associated vendor IDs—i
    Marketing Decisions: Identify low-performing products or customer segments needing outreach
 
    Screenshot:
-   
-   
+   https://github.com/payalsahu1/Farmers_Market_Analysis_Dashboard/blob/main/Snapshot_Dashboard.png
 
 
